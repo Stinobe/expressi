@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Projects - Expressi</title>
+</head>
+<body>
+  <h1>Projects</h1>
+  <p>The SSI middleware for Express</p>
+   <!--# include virtual="partials/footer.shtml" -->
+</body>
+</html>
