@@ -1,4 +1,4 @@
-# Expressi
+# ExprSSI
 (SSI) Server Side Includes middleware for Express.
 
 After some issues with virtual paths I've decided to create my own SSI middleware for [Express](http://expressjs.com/).
