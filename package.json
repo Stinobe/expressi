@@ -1,0 +1,28 @@
+{
+  "name": "expressi",
+  "version": "0.5.0",
+  "description": "An NodeJS Express SSI Middleware",
+  "main": "lib/expressi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stinobe/expressi.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "SSI",
+    "middleware"
+  ],
+  "author": "Stijn Van Wijmeersch <stijn@vanwijmeersch.com> (https://vanwijmeers.ch)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stinobe/expressi/issues"
+  },
+  "homepage": "https://github.com/Stinobe/expressi#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
