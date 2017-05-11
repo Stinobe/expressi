@@ -1,6 +1,6 @@
 {
-  "name": "exprSSI",
-  "version": "0.5.0",
+  "name": "exprssi",
+  "version": "0.5.1",
   "description": "An NodeJS Express SSI Middleware",
   "main": "lib/exprssi.js",
   "scripts": {

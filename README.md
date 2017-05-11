@@ -75,3 +75,9 @@ baseDir | Path to your shtml files | '.'
 ext | The extension you wish to target | '.shtml'
 payload | Content you would like to send when compiling | ''
 virtual | The virtual path you're using | ```false```
+
+## Changelog
+
+* __V0.5.1:__
+  * Remove URL parameters from request
+  * Remove anchor links from request
